@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devpatel1103
-- 👀 I’m interested in Object oriented programming
+- 👀 I’m interested in OOPs and Software development
 - 🌱 I’m currently learning OOPS in java
-- 💞️ I’m looking to collaborate on uniques projects so i can give my best contribution to that project.
+- 💞️ I’m looking to collaborate on uniques projects where i can give best to contribution to that project.
 - 📫 How to reach me serch this on discord : honest_avocado_55920
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: addicted to play pubg😊
